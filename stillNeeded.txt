@@ -16,7 +16,7 @@ xgboost==0.90
 
 matplotlib==3.0.3
 
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 
 s3fs
 psycopg2
