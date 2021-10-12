@@ -38,7 +38,7 @@ h5py==2.9.0
 
 matplotlib==3.0.3
 
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 
 s3fs
 psycopg2
