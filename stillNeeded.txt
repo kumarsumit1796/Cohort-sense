@@ -20,5 +20,5 @@ opencv-python==4.0.0.21
 
 s3fs
 psycopg2
-numpy==1.15.4
+numpy==1.22.0
 
